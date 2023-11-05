@@ -1,5 +1,5 @@
 package tn.esprit.spring.kaddem.entities;
 
 public enum Niveau {
-    JUNIOR,SENIOR
+    JUNIOR,SENIOR,EXPERT
 }
